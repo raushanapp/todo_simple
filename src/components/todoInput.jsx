@@ -9,7 +9,7 @@ export  const TodoInput = ({getData}) =>{
     }} type="text" placeholder="Enter input" id="input" />
      <button onClick = {() => {
           getData(text)
-     }} class="btnAdd">+</button>
+     }} className="btnAdd">+</button>
     </div>
     );
 }

@@ -43,7 +43,7 @@ p{
 
 
 .empty{
-    border: 8px solid rgb(82, 24, 148);
+    /* border: 8px solid rgb(82, 24, 148); */
     width:3%;
     /* border-radius: 50%; */
     border-radius: 500px;
